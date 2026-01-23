@@ -7,7 +7,9 @@ public class cadastroVIEW extends javax.swing.JFrame {
     
     public cadastroVIEW() {
         initComponents();
-        setLocationRelativeTo(null);
+        this.setSize(548, 491);
+        this.setResizable(false);
+        this.setLocationRelativeTo(null);
     }
 
     
